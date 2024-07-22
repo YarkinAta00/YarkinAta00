@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yarkinata00" alt="yarkinata00" /></a> </p>
 
-- 🔭 I’m currently working on [Minerva: Class Management System](https://github.com/battletech45/Minerva)
+- 🔭 I’m currently working as a Dynamics 365 CRM Developer.
 
-- 🌱 I’m currently learning **React,.Net Core Web Api and Flutter**
+- 🌱 I’m also learning **React,.Net Core and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YarkinAta00](https://github.com/YarkinAta00)
 
