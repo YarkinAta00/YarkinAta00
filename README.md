@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Dynamics 365 CRM Developer.
 
-- 🌱 I’m also learning **React,.Net Core and Flutter**
+- 🌱 I’m also learning **.Net Core and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YarkinAta00](https://github.com/YarkinAta00)
 
